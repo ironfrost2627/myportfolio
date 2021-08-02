@@ -1,0 +1,21 @@
+@media  screen and (max-width:768px) {
+    .banner-content{
+        margin-top: 100px;
+    }
+    .card-effect:hover{
+        -webkit-transform: scale(1);
+        -ms-transform: scale(1);
+        transform: scale(1);
+    }
+}
+
+@media  screen and (max-width:980px) {
+    .card-media{
+        flex-direction: column;
+        justify-content: center;
+    }
+}
+
+
+/* 
+ */
